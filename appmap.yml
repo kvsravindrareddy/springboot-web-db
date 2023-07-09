@@ -1,0 +1,4 @@
+name: "springboot-web-db"
+appmap_dir: "target/appmap"
+packages:
+- path: "com.veera"
