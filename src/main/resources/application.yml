@@ -3,9 +3,9 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://mysqldb.cnayglq3wr2e.us-east-2.rds.amazonaws.com:3306/mysqldb
-    username: mysqldb
-    password: mysql123
+    url: jdbc:mysql://host:3306/mysqldb
+    username: 
+    password: 
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
